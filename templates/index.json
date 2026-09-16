@@ -15,7 +15,7 @@
         "slide_nf8FPg": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/flowers-backgrounds-earth-outdoor.jpg",
+            "image": "shopify://shop_images/autumn-flowers-in-bloom.jpg",
             "image_overlay_opacity": 0,
             "heading": "",
             "title_highlight_color": "#6d388b",
@@ -133,69 +133,11 @@
         "padding_top": 0,
         "padding_bottom": 0
       }
-    },
-    "horizontal_ticker_bDVNpK": {
-      "type": "horizontal-ticker",
-      "blocks": {
-        "text_fGtfw6": {
-          "type": "text",
-          "settings": {
-            "title": "Mentoría DayOne"
-          }
-        },
-        "text_bBfk7a": {
-          "type": "text",
-          "settings": {
-            "title": "Mentoría DayOne"
-          }
-        },
-        "text_RUqG3G": {
-          "type": "text",
-          "settings": {
-            "title": "Mentoría DayOne"
-          }
-        }
-      },
-      "block_order": [
-        "text_fGtfw6",
-        "text_bBfk7a",
-        "text_RUqG3G"
-      ],
-      "name": "Horizontal Ticker",
-      "settings": {
-        "visibility": "always-display",
-        "speed": 3,
-        "direction": "normal",
-        "stop_on_hover": false,
-        "mobile_spacing": 60,
-        "desktop_spacing": 100,
-        "color_scheme": "accent-1",
-        "mobile_text_size": 16,
-        "desktop_text_size": 18,
-        "italic_text": false,
-        "uppercase_text": false,
-        "bold_text": false,
-        "mobile_image_height": 26,
-        "desktop_image_height": 40,
-        "mobile_reviews_width": 300,
-        "desktop_reviews_width": 400,
-        "hidden_products": "",
-        "enable_specific_display": false,
-        "displayed_products": "",
-        "mobile_padding_top": 12,
-        "mobile_padding_bottom": 12,
-        "desktop_padding_top": 16,
-        "desktop_padding_bottom": 16,
-        "custom_colors_background": "#FFFFFF",
-        "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39"
-      }
     }
   },
   "order": [
     "cfca4268-6358-426c-98ab-d292aeef11e5",
     "featured_collection_yXfQGq",
-    "section_divider_6HVpc7",
-    "horizontal_ticker_bDVNpK"
+    "section_divider_6HVpc7"
   ]
 }
