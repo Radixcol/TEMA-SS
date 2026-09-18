@@ -250,25 +250,17 @@
             "text": "<p>En<strong> Ashley & Co. </strong>creemos que un negocio puede hacer más que vender.</p><p>Queremos construir una marca que haga parte de la vida de las personas, ofreciendo productos que realmente quieran tener y usar, mientras destinamos una parte de nuestras ganancias a ayudar a quienes más lo necesitan.</p><p>Una parte de nuestras ganancias<strong> será destinada a la alimentación y cuidado de perros y animales en situación de calle</strong>, así como a iniciativas de ayuda y recuperación para nuestra comunidad, incluyendo el apoyo a las personas afectadas por el <strong>terremoto del 10 de agosto en Pereira</strong>.</p><p>Porque para nosotros, crecer también significa poder ayudar más.</p><p><strong>Compra con propósito. Crece con nosotros.</strong></p>",
             "text_style": "body"
           }
-        },
-        "button_a8Dr9r": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
         }
       },
       "block_order": [
         "heading_w8zjjf",
-        "text_ac9QKe",
-        "button_a8Dr9r"
+        "text_ac9QKe"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "display_id": false,
         "visibility": "always-display",
+        "image": "shopify://shop_images/EE.png",
         "video_autoplay": true,
         "video_loop": true,
         "height": "adapt",
@@ -284,82 +276,6 @@
         "mobile_direction": "normal",
         "mobile_image_quanlity": "2",
         "mobile_content_alignment": "left",
-        "mobile_padding_top": 0,
-        "mobile_padding_bottom": 16,
-        "desktop_padding_top": 36,
-        "desktop_padding_bottom": 36,
-        "custom_colors_background": "#2E2A39",
-        "custom_gradient_background": "",
-        "custom_colors_text": "#FFFFFF",
-        "custom_colors_solid_button_background": "#dd1d1d",
-        "custom_colors_solid_button_text": "#ffffff",
-        "custom_colors_outline_button": "#dd1d1d",
-        "custom_section_colors_background": "#FFFFFF",
-        "custom_section_gradient_background": ""
-      }
-    },
-    "rich_text_kiHj4x": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_Krr9iH": {
-          "type": "heading",
-          "settings": {
-            "title": "Empresarios con proposito.",
-            "title_highlight_color": "#6D388B",
-            "heading_size": "h1"
-          }
-        },
-        "text_DX7Mq4": {
-          "type": "text",
-          "settings": {
-            "text": "<p>En<strong> Ashley & Co. </strong>creemos que un negocio puede hacer más que vender.</p><p>Queremos construir una marca que haga parte de la vida de las personas, ofreciendo productos que realmente quieran tener y usar, mientras destinamos una parte de nuestras ganancias a ayudar a quienes más lo necesitan.</p><p>Una parte de nuestras ganancias<strong> será destinada a la alimentación y cuidado de perros y animales en situación de calle</strong>, así como a iniciativas de ayuda y recuperación para nuestra comunidad, incluyendo el apoyo a las personas afectadas por el <strong>terremoto del 10 de agosto en Pereira</strong>.</p><p>Porque para nosotros, crecer también significa poder ayudar más.</p><p><strong>Compra con propósito. Crece con nosotros.</strong></p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_Krr9iH",
-        "text_DX7Mq4"
-      ],
-      "name": "t:sections.rich-text.presets.name",
-      "settings": {
-        "display_id": false,
-        "visibility": "always-display",
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "full_width": true,
-        "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 52,
-        "custom_colors_background": "#FFFFFF",
-        "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39",
-        "custom_colors_solid_button_background": "#dd1d1d",
-        "custom_colors_solid_button_text": "#ffffff",
-        "custom_colors_outline_button": "#dd1d1d"
-      }
-    },
-    "image_with_text_gxpKMn": {
-      "type": "image-with-text",
-      "name": "t:sections.image-with-text.presets.name",
-      "settings": {
-        "display_id": false,
-        "visibility": "always-display",
-        "image": "shopify://shop_images/Empresarios_con_Proposito.png",
-        "video_autoplay": true,
-        "video_loop": true,
-        "height": "adapt",
-        "color_scheme": "background-1",
-        "section_color_scheme": "background-1",
-        "full_desktop_width": true,
-        "content_layout": "no-overlap",
-        "desktop_media_width": 25,
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "center",
-        "mobile_full_media_width": false,
-        "mobile_direction": "normal",
-        "mobile_image_quanlity": "2",
-        "mobile_content_alignment": "center",
         "mobile_padding_top": 0,
         "mobile_padding_bottom": 16,
         "desktop_padding_top": 36,
@@ -399,8 +315,6 @@
     "horizontal_ticker_h3xjQH",
     "section_divider_YrUP9P",
     "image_with_text_AY9DDq",
-    "rich_text_kiHj4x",
-    "image_with_text_gxpKMn",
     "section_divider_6HVpc7"
   ]
 }
