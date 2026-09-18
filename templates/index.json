@@ -118,6 +118,58 @@
         "custom_colors_solid_button_text": "#ffffff"
       }
     },
+    "rich_text_EMaXUf": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_pgQcnf": {
+          "type": "heading",
+          "settings": {
+            "title": "¿Por qué Ashley & Co?",
+            "title_highlight_color": "#6D388B",
+            "heading_size": "h1"
+          }
+        },
+        "text_8pCpUT": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "button_xACmNH": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_pgQcnf",
+        "text_8pCpUT",
+        "button_xACmNH"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "full_width": true,
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d"
+      }
+    },
     "section_divider_mh83H7": {
       "type": "section-divider",
       "name": "Section divider",
@@ -253,6 +305,7 @@
   "order": [
     "cfca4268-6358-426c-98ab-d292aeef11e5",
     "featured_collection_PBay4C",
+    "rich_text_EMaXUf",
     "section_divider_mh83H7",
     "horizontal_ticker_h3xjQH",
     "section_divider_YrUP9P",
