@@ -97,27 +97,27 @@
     "horizontal_ticker_Mk3aVd": {
       "type": "horizontal-ticker",
       "blocks": {
-        "text_8yb4kH": {
+        "text_yT8iPa": {
           "type": "text",
           "settings": {
-            "title": "Paga en Casa"
+            "title": "ENVÍO TOTALMENTE GRATIS"
           }
         },
         "text_NAddD6": {
           "type": "text",
           "settings": {
-            "title": "+1,000,000 En Ventas"
+            "title": "PAGAS EN CASA"
           }
         },
         "text_98m7Qe": {
           "type": "text",
           "settings": {
-            "title": "+100,000 Felices Clientes"
+            "title": "RECIBES EN 3 - 5 DÍAS"
           }
         }
       },
       "block_order": [
-        "text_8yb4kH",
+        "text_yT8iPa",
         "text_NAddD6",
         "text_98m7Qe"
       ],
@@ -146,9 +146,9 @@
         "mobile_padding_bottom": 12,
         "desktop_padding_top": 16,
         "desktop_padding_bottom": 16,
-        "custom_colors_background": "#FFFFFF",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39"
+        "custom_colors_text": "#2e2a39"
       }
     }
   },
