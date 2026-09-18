@@ -118,13 +118,29 @@
         "custom_colors_solid_button_text": "#ffffff"
       }
     },
+    "section_divider_mh83H7": {
+      "type": "section-divider",
+      "name": "Section divider",
+      "settings": {
+        "visibility": "always-display",
+        "shape": "waves_3",
+        "flip_horizontal": false,
+        "flip_vertical": false,
+        "shape_color": "accent-1",
+        "custom_shape_color": "#dd1d1d",
+        "background_color": "background-1",
+        "custom_background_color": "#FFFFFF",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "horizontal_ticker_h3xjQH": {
       "type": "horizontal-ticker",
       "blocks": {
         "text_kDU87p": {
           "type": "text",
           "settings": {
-            "title": "EMPRESARIOS CON PROPOSITO"
+            "title": "Empresarios con proposito"
           }
         }
       },
@@ -156,9 +172,25 @@
         "mobile_padding_bottom": 12,
         "desktop_padding_top": 16,
         "desktop_padding_bottom": 16,
-        "custom_colors_background": "#461519",
+        "custom_colors_background": "#541515",
         "custom_gradient_background": "",
         "custom_colors_text": "#D5CCB2"
+      }
+    },
+    "section_divider_YrUP9P": {
+      "type": "section-divider",
+      "name": "Section divider",
+      "settings": {
+        "visibility": "always-display",
+        "shape": "waves_3",
+        "flip_horizontal": false,
+        "flip_vertical": true,
+        "shape_color": "accent-1",
+        "custom_shape_color": "#dd1d1d",
+        "background_color": "background-1",
+        "custom_background_color": "#FFFFFF",
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "rich_text_kiHj4x": {
@@ -221,7 +253,9 @@
   "order": [
     "cfca4268-6358-426c-98ab-d292aeef11e5",
     "featured_collection_PBay4C",
+    "section_divider_mh83H7",
     "horizontal_ticker_h3xjQH",
+    "section_divider_YrUP9P",
     "rich_text_kiHj4x",
     "section_divider_6HVpc7"
   ]
