@@ -132,25 +132,13 @@
         "text_8pCpUT": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
-          }
-        },
-        "button_xACmNH": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "text": "<p><br/>Somos una empresa enfocada en ofrecer productos de calidad, seleccionados pensando en lo que realmente vale la pena comprar.</p><p></p><p>Nuestro objetivo es tener una selección cada vez más amplia, con productos para diferentes necesidades, gustos y estilos de vida, sin dejar de lado lo más importante <strong>ofrecer productos en los que nosotros mismos confiaríamos.</strong></p>"
           }
         }
       },
       "block_order": [
         "heading_pgQcnf",
-        "text_8pCpUT",
-        "button_xACmNH"
+        "text_8pCpUT"
       ],
       "name": "t:sections.rich-text.presets.name",
       "settings": {
