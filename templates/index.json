@@ -139,7 +139,7 @@
         "stop_on_hover": false,
         "mobile_spacing": 60,
         "desktop_spacing": 100,
-        "color_scheme": "accent-1",
+        "color_scheme": "custom",
         "mobile_text_size": 16,
         "desktop_text_size": 18,
         "italic_text": false,
@@ -158,7 +158,7 @@
         "desktop_padding_bottom": 16,
         "custom_colors_background": "#461519",
         "custom_gradient_background": "",
-        "custom_colors_text": "#FF7E7E"
+        "custom_colors_text": "#D5CCB2"
       }
     },
     "rich_text_kiHj4x": {
