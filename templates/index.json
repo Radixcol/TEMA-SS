@@ -118,6 +118,49 @@
         "custom_colors_solid_button_text": "#ffffff"
       }
     },
+    "horizontal_ticker_h3xjQH": {
+      "type": "horizontal-ticker",
+      "blocks": {
+        "text_kDU87p": {
+          "type": "text",
+          "settings": {
+            "title": "EMPRESARIOS CON PROPOSITO"
+          }
+        }
+      },
+      "block_order": [
+        "text_kDU87p"
+      ],
+      "name": "Horizontal Ticker",
+      "settings": {
+        "visibility": "always-display",
+        "speed": 3,
+        "direction": "normal",
+        "stop_on_hover": false,
+        "mobile_spacing": 60,
+        "desktop_spacing": 100,
+        "color_scheme": "accent-1",
+        "mobile_text_size": 16,
+        "desktop_text_size": 18,
+        "italic_text": false,
+        "uppercase_text": false,
+        "bold_text": false,
+        "mobile_image_height": 26,
+        "desktop_image_height": 40,
+        "mobile_reviews_width": 300,
+        "desktop_reviews_width": 400,
+        "hidden_products": "",
+        "enable_specific_display": false,
+        "displayed_products": "",
+        "mobile_padding_top": 12,
+        "mobile_padding_bottom": 12,
+        "desktop_padding_top": 16,
+        "desktop_padding_bottom": 16,
+        "custom_colors_background": "#461519",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#FF7E7E"
+      }
+    },
     "rich_text_kiHj4x": {
       "type": "rich-text",
       "blocks": {
@@ -178,6 +221,7 @@
   "order": [
     "cfca4268-6358-426c-98ab-d292aeef11e5",
     "featured_collection_PBay4C",
+    "horizontal_ticker_h3xjQH",
     "rich_text_kiHj4x",
     "section_divider_6HVpc7"
   ]
