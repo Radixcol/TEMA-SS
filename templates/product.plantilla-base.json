@@ -24,7 +24,7 @@
         "pp_custom_liquid_block_V9CNni": {
           "type": "pp_custom_liquid_block",
           "settings": {
-            "content": "<div class=\"ashley-logo\">\n  <img\n    src=\"https://cdn.shopify.com/s/files/1/0920/2542/2098/files/ChatGPT_Image_15_sept_2026_14_27_04.png?v=1789500453\"\n    alt=\"Ashley&Co\"\n    loading=\"eager\"\n  >\n</div>\n\n<style>\n  .ashley-logo {\n    width: 100%;\n    max-width: 160px;\n    margin: 0 0 12px;\n    padding: 0;\n    border: none;\n    background: transparent;\n  }\n\n  .ashley-logo img {\n    display: block;\n    width: 100%;\n    height: auto;\n    max-height: 45px;\n    object-fit: contain;\n    object-position: left center;\n    margin: 0;\n    padding: 0;\n    border: none;\n    border-radius: 0;\n    box-shadow: none;\n  }\n</style>"
+            "content": "<div class=\"ashley-logo\">\n  <img\n    src=\"https://cdn.shopify.com/s/files/1/1003/3581/2915/files/Group_36.png?v=1793035900\"\n    alt=\"Ashley&Co\"\n    loading=\"eager\"\n  >\n</div>\n\n<style>\n  .ashley-logo {\n    width: 100%;\n    max-width: 160px;\n    margin: 0 0 12px;\n    padding: 0;\n    border: none;\n    background: transparent;\n  }\n\n  .ashley-logo img {\n    display: block;\n    width: 100%;\n    height: auto;\n    max-height: 45px;\n    object-fit: contain;\n    object-position: left center;\n    margin: 0;\n    padding: 0;\n    border: none;\n    border-radius: 0;\n    box-shadow: none;\n  }\n</style>"
           }
         },
         "title_kx7sfv": {
