@@ -21,6 +21,12 @@
             "review_text": "reseñas"
           }
         },
+        "pp_custom_liquid_block_V9CNni": {
+          "type": "pp_custom_liquid_block",
+          "settings": {
+            "content": "<div class=\"hydra-topbar\" bis_skin_checked=\"1\">\n  <div class=\"hydra-logo\" bis_skin_checked=\"1\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0920/2542/2098/files/ChatGPT_Image_15_sept_2026_14_27_04.png?v=1789500453\" alt=\"HYDRA\" loading=\"eager\">\n  </div>\n</div>"
+          }
+        },
         "title_kx7sfv": {
           "type": "title",
           "settings": {}
@@ -115,7 +121,6 @@
           "settings": {
             "rating": 5,
             "stars_color": "#facc15",
-            "image": "shopify://shop_images/ef4f90cd-aff2-47c7-9639-7ed5f95807ec.webp",
             "review": "Desde el primer uso noté comodidad y amortiguación diferentes; mis carreras son más largas sin dolor y la suela aguanta el ritmo diario. Buen envío y atención rápida, me dieron confianza para volver a comprar.",
             "name": "Ana X."
           }
@@ -152,6 +157,7 @@
       },
       "block_order": [
         "review_numbers_ybely5",
+        "pp_custom_liquid_block_V9CNni",
         "title_kx7sfv",
         "product_subtitle_haaek9",
         "price_3H9WF9",
@@ -219,7 +225,6 @@
         "button_fpuqf8"
       ],
       "settings": {
-        "image": "shopify://shop_images/image_427_1765417264518-42103626-52162888-38904110_0.jpg",
         "image_alt": "Zapatillas Infinity Run Confort Diarias",
         "layout": "image_first",
         "desktop_content_position": "center",
@@ -281,7 +286,6 @@
       "settings": {
         "heading": "Siente la diferencia cada kilómetro recorrido",
         "subtitle": "Amortiguación ligera, soporte estable y confort diario se combinan para que corras más tiempo sin dolor ni fatiga, disfrutando cada entrenamiento.",
-        "image": "shopify://shop_images/image_527_1765417264517-34684432-76350233-79402053_1.jpg",
         "image_rounded_type": "circle",
         "desktop_content_alignment": "center",
         "mobile_content_alignment": "center",
@@ -406,7 +410,6 @@
         "button_lc1hhf"
       ],
       "settings": {
-        "image": "shopify://shop_images/image_345_1765417264516-59350511-75041815-57462292_2.jpg",
         "layout": "image_first",
         "desktop_content_alignment": "left",
         "mobile_content_alignment": "center",
@@ -451,7 +454,6 @@
         "button_adohrs"
       ],
       "settings": {
-        "image": "shopify://shop_images/image_603_1765417264517-78334251-51488966-13716187_3.jpg",
         "image_alt": "Zapatillas Infinity Run Confort Diarias",
         "layout": "text_first",
         "desktop_content_position": "center",
